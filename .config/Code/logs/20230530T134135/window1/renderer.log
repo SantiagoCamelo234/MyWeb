@@ -1,0 +1,13 @@
+2023-05-30 13:41:36.522 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-05-30 13:41:39.814 [info] [perf] Render performance baseline is 33ms
+2023-05-30 13:46:37.462 [warning] Settings pattern "security.*" doesn't match any settings
+2023-05-30 13:46:37.465 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: interactiveEditor.editMode, accessibility.verbosity.diff-editor, accessibility.verbosity.terminal
+2023-05-30 13:48:12.923 [warning] Settings pattern "security.*" doesn't match any settings
+2023-05-30 13:48:13.239 [error] Unable to read file 'vscode-userdata:/home/santiago/.config/Code/User/settings.json' (Error: File not modified since): Error: Unable to read file 'vscode-userdata:/home/santiago/.config/Code/User/settings.json' (Error: File not modified since)
+    at e.FileService.w (vscode-file://vscode-app/snap/code/129/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:17669)
+    at e.FileService.v (vscode-file://vscode-app/snap/code/129/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:17501)
+    at async e.NativeTextFileService.H (vscode-file://vscode-app/snap/code/129/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:38305)
+    at async e.NativeTextFileService.readStream (vscode-file://vscode-app/snap/code/129/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:38000)
+    at async Hs.Ab (vscode-file://vscode-app/snap/code/129/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2298:54368)
+    at async Hs.resolve (vscode-file://vscode-app/snap/code/129/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2298:52773)
+    at async vscode-file://vscode-app/snap/code/129/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:34023

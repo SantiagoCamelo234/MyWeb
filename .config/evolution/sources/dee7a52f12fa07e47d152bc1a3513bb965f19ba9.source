@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=ilvarcamelo206@gmail.com
+Enabled=true
+Parent=a6431279d0d7f71a48c00cf233e559344186cdeb
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=c15f3d9e1b4b09621ce9fec145d15b5da2073128
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=ilvarcamelo206@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
