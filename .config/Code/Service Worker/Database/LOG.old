@@ -1,2 +1,3 @@
-2023/05/30-13:41:02.153 13f4 Creating DB /home/santiago/.config/Code/Service Worker/Database since it was missing.
-2023/05/30-13:41:02.175 13f4 Reusing MANIFEST /home/santiago/.config/Code/Service Worker/Database/MANIFEST-000001
+2023/05/30-13:41:35.714 14ef Reusing MANIFEST /home/santiago/.config/Code/Service Worker/Database/MANIFEST-000001
+2023/05/30-13:41:35.714 14ef Recovering log #3
+2023/05/30-13:41:35.714 14ef Reusing old log /home/santiago/.config/Code/Service Worker/Database/000003.log 
