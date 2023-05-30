@@ -39,3 +39,29 @@ cat ~/.ssh/id_ed25519.pub
 cat ~/ssh/id_ed25519.pub
 ssh-add ~/.ssh/id_ed25519
 cat ~/.ssh/id_ed25519.pub
+ssh-add ~/.ssh/id_ed25519
+cat ~/.ssh/id_ed25519.pub
+reset
+ls
+cd proyectoPersonal
+ls
+cd santiago
+ls
+cd Santiago
+cd santiago
+ls
+ls web.html
+git init
+git status
+git add
+git add .bash_history
+git add .
+git status
+git add web.html
+git status
+git add .
+git status
+git commit -m "Mi primer commit"
+git config --global user.name "SantiagoCamelo234"
+git config --global user.email "ilvarcamelo206@gmail.com
+
