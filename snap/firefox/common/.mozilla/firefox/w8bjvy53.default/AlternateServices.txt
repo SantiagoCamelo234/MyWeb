@@ -1,4 +1,4 @@
-https:push.services.mozilla.com:443:.::3	0	19507	https:push.services.mozilla.com:443:push.services.mozilla.com:443::n:1688078502:h3:y:1685486495:n::|n:y:
-https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	0	19507	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1688080349:h3:y:1685486495:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:
+https:push.services.mozilla.com:443:.::3	0	19507	https:push.services.mozilla.com:443:push.services.mozilla.com:443::n:1688081094:h3:y:1685486495:n::|n:y:
+https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	0	19507	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1688080872:h3:y:1685486495:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:
 https:www.google.com:443:.:^firstPartyDomain=google-canonical.search.suggestions.mozilla:3	0	19507	https:www.google.com:443:www.google.com:443::n:1688078506:h3:y:1685486495:n:^firstPartyDomain=google-canonical.search.suggestions.mozilla:|n:y:
 https:versioncheck-bg.addons.mozilla.org:443:.::3	0	19507	https:versioncheck-bg.addons.mozilla.org:443:versioncheck-bg.addons.mozilla.org:443::n:1688079125:h3:y:1685486495:n::|n:y:

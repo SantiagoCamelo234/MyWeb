@@ -2,13 +2,13 @@
 <application-state>
   <context id="">
     <application id="snap-store_ubuntu-software.desktop" score="34" last-seen="1685472649"/>
-    <application id="org.gnome.Nautilus.desktop" score="20" last-seen="1685487055"/>
+    <application id="org.gnome.Nautilus.desktop" score="20" last-seen="1685488407"/>
     <application id="nautilus-autorun-software.desktop" score="0" last-seen="0"/>
     <application id="gnome-initial-setup.desktop" score="14" last-seen="1685471280"/>
     <application id="code_code.desktop" score="72" last-seen="1685472598"/>
-    <application id="firefox_firefox.desktop" score="43" last-seen="1685487596"/>
+    <application id="firefox_firefox.desktop" score="47" last-seen="1685488896"/>
     <application id="gnome-control-center.desktop" score="1" last-seen="1685471370"/>
-    <application id="terminator.desktop" score="230" last-seen="1685487596"/>
+    <application id="terminator.desktop" score="409" last-seen="1685488864"/>
     <application id="update-manager.desktop" score="0" last-seen="1685473115"/>
   </context>
 </application-state>
